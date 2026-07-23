@@ -139,4 +139,4 @@ Riya Kini
 Computer Engineer | Excel Analyst | Data Analytics Enthusiast
 
 LinkedIn:
-(Add your LinkedIn)
+[](https://www.linkedin.com/in/riya-kini/)
