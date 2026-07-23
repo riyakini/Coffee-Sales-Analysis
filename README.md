@@ -94,23 +94,6 @@ Created Columns:
 
 ---
 
-## Folder Structure
-
-Coffee-Shop-Sales-Analysis/
-
-│── Dataset/
-
-│── Dashboard.xlsx
-
-│── Dashboard.png
-
-│── README.md
-
-│── Images/
-
-│── Pivot Tables/
-
----
 
 ## Dashboard Preview
 
